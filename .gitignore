@@ -63,3 +63,4 @@ crashlytics-build.properties
 /FlappyBird_AR/obj
 /FlappyBird_AR/.vs
 /FlappyBird_AR/_Build
+/FlappyBird_AR/*.vsconfig
